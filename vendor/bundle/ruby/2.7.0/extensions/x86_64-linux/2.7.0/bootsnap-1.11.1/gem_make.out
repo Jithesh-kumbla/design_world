@@ -1,0 +1,15 @@
+current directory: /home/jithesh/Documents/test_apps/YourDesignWorld/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+/home/jithesh/.rvm/rubies/ruby-2.7.1/bin/ruby -I /home/jithesh/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0 -r ./siteconf20220310-22264-1g38o1b.rb extconf.rb
+creating Makefile
+
+current directory: /home/jithesh/Documents/test_apps/YourDesignWorld/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/jithesh/Documents/test_apps/YourDesignWorld/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/jithesh/Documents/test_apps/YourDesignWorld/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20220310-22264-9xf1gd/bootsnap
